@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="conectando">Conectando</string>
+    <string name="err_impr">Se ha producido un error al conectar con la impresora.</string>
+    <string name="mac_testo">MAC_TESTO</string>
+    <string name="err_durante_impr">Se ha producido un error durante la impresión.</string>
+</resources>
